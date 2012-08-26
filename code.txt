@@ -1,0 +1,47 @@
+Shell Fun:
+
+Node
+----
+Assignment
+Big add
+Matching
+
+Cluster from shell
+
+rpc:call(goat@ubuntu,os,cmd,["xdg-open http://tinyurl.com/2g9mqh"]). 
+
+
+Syntax
+------	
+hello
+- average
+- fizzbuzz
+
+
+Processes
+---------
+cheap_process
+
+
+Distribution
+------------
+
+
+
+cd("c:/code/erl4net/hello").
+nl(hello).
+rpc:call(node(), hello,say_hello, ["Joe"]).
+[rpc:call(Node, hello,say_hello, ["Joe"]) || Node <- nodes()].
+
+
+
+
+
+
+
+
+
+
+
+
+

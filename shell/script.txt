@@ -1,0 +1,8 @@
+%% Running erlang code outside of the shell
+
+% Eval from the console
+erl -eval 'io:format("Memory: ~p~n", [erlang:memory(total)]).' -noshell -s init stop
+
+% escript 
+escript factorial.erl
+escript factorial.erl 10
