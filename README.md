@@ -14,4 +14,4 @@ concurrency" as sweet spots? How can the F# community use Erlang?
 **About Bryan Hunter:**
 Bryan Hunter: Firefly Logic founder and partner; C# and Erlang developer; Microsoft MVP; NashDotNet cheerleader;
 ENTP; papa of three; artist.You can say hi to Bryan on Twitter (@bryan_hunter), read his blog
-at http://codeswamp.com, and see what Firefly Logic is all about here: fireflylogic.com
+at http://codeswamp.com, and see what Firefly Logic is all about here: http://fireflylogic.com
