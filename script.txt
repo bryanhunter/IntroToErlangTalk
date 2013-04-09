@@ -1,0 +1,20 @@
+Shell Fun:
+
+cd("c:/code/IntroToErlangTalk/").
+
+Erlang shell
+----
+Assignment
+Big add
+Matching
+Cluster from shell
+
+Syntax
+------	
+- hello
+- average
+- fizzbuzz
+
+Processes
+---------
+cheap_process
