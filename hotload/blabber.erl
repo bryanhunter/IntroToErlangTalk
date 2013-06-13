@@ -11,7 +11,13 @@ loop(Count) ->
 	    io:format("Closing~n", []),
 	    ok
     after 2000 ->
-	    io:format("Loop ~p on ~p says howdy!!!~n", 
+	    io:format("Loop ~p on ~p says hello.~n", 
 		      [node(), Count]),
 	    ?MODULE:loop(Count+1)
     end.
+
+
+
+
+
+%% cd('c:/code/IntroToErlangTalk/hotload').
