@@ -11,7 +11,7 @@ loop(Count) ->
 	    io:format("Closing~n", []),
 	    ok
     after 2000 ->
-	    io:format("Loop ~p on ~p says hello.~n", 
+	    io:format("Loop # [~p] on node [~p] says hello.~n", 
 		      [node(), Count]),
 	    ?MODULE:loop(Count+1)
     end.
